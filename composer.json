@@ -1,5 +1,5 @@
 {
-    "name": "hipsterjazzbo/landlord",
+    "name": "robinmartin/landlord",
     "description": "A simple, single database multi-tenancy solution for Laravel 5.2+",
     "license": "MIT",
     "keywords": ["tenant", "tenancy", "multitenant", "multitenancy"],
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "5.2.*"
+        "illuminate/support": "5.3.*"
     },
     "require-dev": {
         "mockery/mockery": "~0.9",
